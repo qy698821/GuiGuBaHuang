@@ -1,0 +1,65 @@
+"1446780"
+{
+	"ChangeNumber"		"-8017775780610536725"
+	"ostype"		"16"
+	"win64_save/data00-1.bin"
+	{
+		"root"		"0"
+		"size"		"529564"
+		"localtime"		"1652888460"
+		"time"		"1652888457"
+		"remotetime"		"1652888457"
+		"sha"		"8c7365c696d6d6b0a2cd1c002435399c10f57ce1"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/data001Slot.bin"
+	{
+		"root"		"0"
+		"size"		"2105884"
+		"localtime"		"1652888459"
+		"time"		"1652888456"
+		"remotetime"		"1652888456"
+		"sha"		"59612a835388d028c68ffb1a60f5138e0633cef3"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/SS1_data002Slot.bin"
+	{
+		"root"		"0"
+		"size"		"234980"
+		"localtime"		"1651162793"
+		"time"		"1651162792"
+		"remotetime"		"1651162792"
+		"sha"		"a1f4263747a78bf7da65ce8b554c9bfd9987ad77"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/SS1_data302Slot.bin"
+	{
+		"root"		"0"
+		"size"		"21396"
+		"localtime"		"1651162793"
+		"time"		"1651162792"
+		"remotetime"		"1651162792"
+		"sha"		"3d95da193e0c3ef0eeeb2902edc9cc2896a6facf"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+	"win64_save/SS1_data001Slot.bin"
+	{
+		"root"		"0"
+		"size"		"2580"
+		"localtime"		"1651208033"
+		"time"		"1651208033"
+		"remotetime"		"1651208033"
+		"sha"		"93a420fdf03fee3368559122758d02a3e0c6ce11"
+		"syncstate"		"1"
+		"persiststate"		"0"
+		"platformstosync2"		"-1"
+	}
+}
